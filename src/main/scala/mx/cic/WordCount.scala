@@ -25,6 +25,7 @@ object WordCount {
     val writer = new PrintWriter(new File("output.txt"))
     //Creo mi fun1
     def fun1(x: File) = {
+      //println("veces")
       //Leo el archivo segun el argumento de fun1
       val text = env.readTextFile(x.toString)
       //Guardamos el nombre del archivo en la lista nombres
@@ -64,10 +65,9 @@ object WordCount {
 
     for (x1 <- files) {
       fun1(x1)
-      val result = fun1(x1)
+      //val result = fun1(x1)
       //println(contenido)
       lista_de_contenido +=  contenido.toString()
-
     }
     println(nombres)
     //println(lista_de_contenido)
