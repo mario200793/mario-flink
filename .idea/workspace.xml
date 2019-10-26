@@ -1,0 +1,256 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="774b4c1a-e404-4a3b-9115-a2c8ba23e1da" name="Default Changelist" comment="">
+      <change afterPath="$PROJECT_DIR$/src/main/resources/prueba/sample_10000.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3$$anon$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3$$anon$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3$$anonfun$createSerializer$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3$$anonfun$createSerializer$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4$$anon$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4$$anon$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4$$anonfun$createSerializer$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4$$anonfun$createSerializer$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anon$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$2.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$2.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$3.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$3.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$4.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$4.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$getListOfFiles$1.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$$anonfun$getListOfFiles$1.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/main/mx/cic/WordCount$.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c2817ff3ac511c86c2d0$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c2817ff3ac511c86c2d0.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/project/target/config-classes/$c2817ff3ac511c86c2d0.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$05b33f0f02f92a2a4cec$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$05b33f0f02f92a2a4cec.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$05b33f0f02f92a2a4cec.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b696cc855adf9b7f7b8$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b696cc855adf9b7f7b8.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$2b696cc855adf9b7f7b8.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3a61a126ae4817c858$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3a61a126ae4817c858.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$4e3a61a126ae4817c858.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$558b4dd01eb8b5e2e846$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$558b4dd01eb8b5e2e846.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$558b4dd01eb8b5e2e846.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6cdef340b619234a4379$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6cdef340b619234a4379.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$6cdef340b619234a4379.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$933b8d6e526b1436fb0d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$933b8d6e526b1436fb0d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$933b8d6e526b1436fb0d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a1dae2d3657048824138$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a1dae2d3657048824138.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a1dae2d3657048824138.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a543f0d24d5d6f084064$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a543f0d24d5d6f084064.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$a543f0d24d5d6f084064.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ab43f80f078e32982fba$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ab43f80f078e32982fba.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$ab43f80f078e32982fba.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3290546b43a50ffb412$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3290546b43a50ffb412.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b3290546b43a50ffb412.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d120ae76235774400$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d120ae76235774400.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$b52d120ae76235774400.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d21130ebdb71e04275eb$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d21130ebdb71e04275eb.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d21130ebdb71e04275eb.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d860bf406f3e1db9771d$.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d860bf406f3e1db9771d.cache" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/config-classes/$d860bf406f3e1db9771d.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/mario-flink-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/mario-flink-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/mario-flink-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/default/mario-flink-build/scala_2.12/sbt_1.0/0.1.0-SNAPSHOT/resolved.xml.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-compile-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-compile-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-compile.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-compile.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-optional.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-optional.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-plugin.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-plugin.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-provided.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-provided.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-runtime-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-runtime-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-runtime.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-runtime.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-scala-tool.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-scala-tool.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-test-internal.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-test-internal.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-test.xml" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/scala-2.12/sbt-1.0/resolution-cache/reports/default-mario-flink-build-test.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/out" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/$global/update/$global/streams/update_cache_2.12/output" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/compile/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/dependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/externalDependencyClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/fullClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" beforeDir="false" afterPath="$PROJECT_DIR$/project/target/streams/runtime/managedClasspath/$global/streams/export" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/prueba/prueba1.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/prueba/prueba2.txt" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/scala/mx/cic/WordCount.scala" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/scala/mx/cic/WordCount.scala" afterDir="false" />
+    </list>
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CodeStyleSettingsInfer">
+    <option name="done" value="true" />
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="SBT">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="Flink Project" type="f1a62948:ProjectNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectCodeStyleSettingsMigration">
+    <option name="version" value="1" />
+  </component>
+  <component name="ProjectId" id="1SRD2mjrZxax9YNFMTdtnxOig6O" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="PropertiesComponent">
+    <property name="SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/src/main/resources/prueba" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="configurable.group.appearance" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/src/main/resources/prueba" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="Application.WordCount (1)">
+    <configuration name="WordCount (1)" type="Application" factoryName="Application" temporary="true">
+      <option name="MAIN_CLASS_NAME" value="mx.cic.WordCount" />
+      <module name="main" />
+      <option name="PROGRAM_PARAMETERS" value="prueba" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.cic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="WordCount" type="Application" factoryName="Application">
+      <option name="MAIN_CLASS_NAME" value="mx.cic.WordCount" />
+      <module name="mainRunner" />
+      <option name="PROGRAM_PARAMETERS" value="prueba" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/main/resources" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="mx.cic.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <list>
+      <item itemvalue="Application.WordCount" />
+      <item itemvalue="Application.WordCount (1)" />
+    </list>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.WordCount (1)" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SbtLocalSettings">
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="Flink Project" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="root [file:/home/aulae1/Documentos/mario/flink-mario/mario-flink/]" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="mainRunner [file:/home/aulae1/Documentos/mario/flink-mario/mario-flink/]" />
+                <option name="path" value="$PROJECT_DIR$/mainRunner" />
+              </ExternalProjectPojo>
+              <ExternalProjectPojo>
+                <option name="name" value="Flink Project-build" />
+                <option name="path" value="$PROJECT_DIR$/project" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4714551976470" />
+        <entry key="$PROJECT_DIR$/build.sbt" value="1532279532" />
+        <entry key="$PROJECT_DIR$/project/assembly.sbt" value="3441400446" />
+        <entry key="$PROJECT_DIR$/project/build.properties" value="1396028727" />
+      </map>
+    </option>
+  </component>
+  <component name="SvnConfiguration">
+    <configuration />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="774b4c1a-e404-4a3b-9115-a2c8ba23e1da" name="Default Changelist" comment="" />
+      <created>1571517309153</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1571517309153</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State>
+              <option name="COLUMN_ORDER" />
+            </State>
+          </value>
+        </entry>
+      </map>
+    </option>
+  </component>
+</project>

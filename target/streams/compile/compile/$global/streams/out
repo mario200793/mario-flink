@@ -1,0 +1,6 @@
+[0m[[0m[0mdebug[0m] [0m[0mAcquiring lock on file /home/aulae1/Documentos/mario/flink-mario/mario-flink/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock ...[0m
+[0m[[0m[31merror[0m] [0m[0m/home/aulae1/Documentos/mario/flink-mario/mario-flink/src/main/scala/mx/cic/WordCount.scala:65:5: not found: value printnl[0m
+[0m[[0m[31merror[0m] [0m[0m    printnl(direccion)[0m
+[0m[[0m[31merror[0m] [0m[0m    ^[0m
+[0m[[0m[31merror[0m] [0m[0mone error found[0m
+[0m[[0m[0mdebug[0m] [0m[0mReleasing lock on file /home/aulae1/Documentos/mario/flink-mario/mario-flink/project/target/.sbt-compilation-infos/root-compile/.sbt-idea-lock.[0m

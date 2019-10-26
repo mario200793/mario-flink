@@ -1,0 +1,5 @@
+[0m[[0m[0mdebug[0m] [0m[0mCopy resource mappings: [0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/aulae1/Documentos/mario/flink-mario/mario-flink/src/main/resources/prueba,/home/aulae1/Documentos/mario/flink-mario/mario-flink/target/scala-2.11/classes/prueba)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/aulae1/Documentos/mario/flink-mario/mario-flink/src/main/resources/prueba/prueba1.txt,/home/aulae1/Documentos/mario/flink-mario/mario-flink/target/scala-2.11/classes/prueba/prueba1.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/aulae1/Documentos/mario/flink-mario/mario-flink/src/main/resources/prueba/prueba2.txt,/home/aulae1/Documentos/mario/flink-mario/mario-flink/target/scala-2.11/classes/prueba/prueba2.txt)[0m
+[0m[[0m[0mdebug[0m] [0m[0m	(/home/aulae1/Documentos/mario/flink-mario/mario-flink/src/main/resources/sample_10000.txt,/home/aulae1/Documentos/mario/flink-mario/mario-flink/target/scala-2.11/classes/sample_10000.txt)[0m
